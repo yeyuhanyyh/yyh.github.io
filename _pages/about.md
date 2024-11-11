@@ -15,16 +15,21 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+ul {
+  line-height: 1.5;
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 
-I'm Yuhan Ye (叶宇涵), an undergraduate at School of Mathematical Sciences, Peking University.
+My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University. I am currently doing research on distributed machine learning at Prof. [Kun Yuan](https://kunyuan827.github.io/)'s lab. My CV [Gan Luo's CV](CV_v1.pdf). I actively write blogs on Zhihu:[Gan Luo's Zhihu Homepage](https://www.zhihu.com/people/zou-chu-dong-xue-16).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 🔥 News
+- *2024.05*: &nbsp;🎉 Accepted into the Applied Mathematics Elite Program(15/200).
 
-# 📝 Publications 
+<!-- ## 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,15 +47,33 @@ I'm Yuhan Ye (叶宇涵), an undergraduate at School of Mathematical Sciences, P
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 🎖 Honors and Awards
+- **Applied Mathematics Elite Program**, the program accepted only 15 people this year.
+- **Silver Medal**, 35th Chinese Chemical Olympiad (**National Final**). The prize is awarded to the top 150 high school students in chemical throughout China.
+- **First Prize**, 35th Chinese Chemical Olympiad (**Chongqing Division**).
 
-# 💬 Invited Talks
+## 📖 Educations
+- *2023.04 - 2026.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
+- *2022.09 - 2023.04*, Undergraduate Student, College of Environmental Sciences and Engineering, Peking University
+
+## 🔗 Links
+- 👨‍🏫 **Advisors**: [Kun Yuan](https://kunyuan827.github.io/)
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+
+<style>
+  #mapmyvisitors {
+    width: 600px;
+    height: 400px;
+  }
+</style>
+
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wXhj3VMV8ErHKlAkznvwdiZom4zFOwbyHEAM86vXFIM&cl=ffffff&w=a"></script>
