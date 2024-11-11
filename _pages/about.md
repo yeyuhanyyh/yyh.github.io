@@ -23,11 +23,11 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University. Here is my [CV](cv.pdf)
+My name is Yuhan Ye(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University.
 
 
 ## 🔥 News
-- *2024.05*: &nbsp;🎉 Accepted into the Applied Mathematics Elite Program(15/200).
+- *2023.05*: &nbsp;🎉 Accepted into the Applied Mathematics Elite Program(15/220).
 
 <!-- ## 📝 Publications 
 
@@ -51,12 +51,10 @@ My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate 
 
 ## 🎖 Honors and Awards
 - **Applied Mathematics Elite Program**, the program accepted only 15 people this year.
-- **Silver Medal**, 35th Chinese Chemical Olympiad (**National Final**). The prize is awarded to the top 150 high school students in chemical throughout China.
-- **First Prize**, 35th Chinese Chemical Olympiad (**Chongqing Division**).
+- **Silver Medal**, 34th Chinese Mathematical Olympiad (**National Final**). 
 
 ## 📖 Educations
-- *2023.04 - 2026.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
-- *2022.09 - 2023.04*, Undergraduate Student, College of Environmental Sciences and Engineering, Peking University
+- *2021.09 - 2025.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
 
 ## 🔗 Links
 - 👨‍🏫 **Advisors**: [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html)
