@@ -23,7 +23,7 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University. 
+My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University. Here is my [CV]
 
 
 ## 🔥 News
