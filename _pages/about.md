@@ -23,7 +23,17 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuhan Ye(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University.
+My name is Yuhan Ye(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University. I have a broad interest in optimization and the theory of computation. I am particularly focused on exploring continuous and discrete optimization techniques in operations research, machine learning, statistical estimation, and theoretical computer science.
+
+From a methodological perspective, my current research involves: 
+
+(1) Developing optimization models and computational methods for decision-making under uncertainty.
+ 
+(2) Variational analysis for stochastic nonsmooth and nonconvex optimization.
+
+(3) Using machine learning methods to solve combinatorial optimization problems.
+
+(4) Submodular optimization and continuous extensions for combinatorial optimization.
 
 
 ## 🔥 News
@@ -57,8 +67,9 @@ My name is Yuhan Ye(<font face=STKaiti>叶宇涵</font>). I am an undergraduate 
 - *2021.09 - 2025.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
 
 ## 🔗 Links
-- 👨‍🏫 **Advisors**: [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) 
-[Ying Cui](https://sites.google.com/site/optyingcui/home?authuser=0)
+- 👨‍🏫 **Advisors**: [Ying Cui](https://sites.google.com/site/optyingcui/home?authuser=0)
+[Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) 
+[Sihong Shao](http://scholar.pku.edu.cn/ssh)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
