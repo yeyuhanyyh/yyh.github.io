@@ -23,7 +23,7 @@ ul {
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University. I am currently doing research on distributed machine learning at Prof. [Kun Yuan](https://kunyuan827.github.io/)'s lab. My CV [Gan Luo's CV](CV_v1.pdf). I actively write blogs on Zhihu:[Gan Luo's Zhihu Homepage](https://www.zhihu.com/people/zou-chu-dong-xue-16).
+My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate at School of Mathematical Sciences, Peking University. 
 
 
 ## 🔥 News
@@ -59,7 +59,7 @@ My name is Yeyu Han(<font face=STKaiti>叶宇涵</font>). I am an undergraduate 
 - *2022.09 - 2023.04*, Undergraduate Student, College of Environmental Sciences and Engineering, Peking University
 
 ## 🔗 Links
-- 👨‍🏫 **Advisors**: [Kun Yuan](https://kunyuan827.github.io/)
+- 👨‍🏫 **Advisors**: [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
