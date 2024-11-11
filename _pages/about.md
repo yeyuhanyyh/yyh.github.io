@@ -58,9 +58,7 @@ My name is Yuhan Ye(<font face=STKaiti>叶宇涵</font>). I am an undergraduate 
 
 ## 🔗 Links
 - 👨‍🏫 **Advisors**: [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) 
-
-## 🔗 Links
-- 👨‍🏫 **Advisors**: [Ying Cui](https://sites.google.com/site/optyingcui/home?authuser=0)
+[Ying Cui](https://sites.google.com/site/optyingcui/home?authuser=0)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
