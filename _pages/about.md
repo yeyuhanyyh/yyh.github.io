@@ -50,14 +50,17 @@ My name is Yuhan Ye(<font face=STKaiti>叶宇涵</font>). I am an undergraduate 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 ## 🎖 Honors and Awards
-- **Applied Mathematics Elite Program**, the program accepted only 15 people this year.
+<!--- **Applied Mathematics Elite Program**, the program accepted only 15 people this year.-->
 - **Silver Medal**, 34th Chinese Mathematical Olympiad (**National Final**). 
 
 ## 📖 Educations
 - *2021.09 - 2025.06 (expected)*, Undergraduate Student, School of Mathematical Sciences, Peking University
 
 ## 🔗 Links
-- 👨‍🏫 **Advisors**: [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html)
+- 👨‍🏫 **Advisors**: [Zaiwen Wen](http://faculty.bicmr.pku.edu.cn/~wenzw/index.html) 
+
+## 🔗 Links
+- 👨‍🏫 **Advisors**: [Ying Cui](https://sites.google.com/site/optyingcui/home?authuser=0)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
